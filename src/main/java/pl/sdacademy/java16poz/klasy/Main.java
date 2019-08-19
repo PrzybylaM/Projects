@@ -5,7 +5,7 @@ import pl.sdacademy.java16poz.Obiekty.Kanapka;
 public class Main {
     public static void main(String[] args) {
 
-        String tekst = "Przykładowy tekst..";
+        String tekst = "Przykładowy tekst...";
 
         // typ_zmiennej nazwa_zmiennej = wartosc
         Kanapka kanapkaZPomidorem;  //deklaracja
